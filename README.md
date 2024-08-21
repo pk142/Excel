@@ -17,6 +17,7 @@ This repository contains comprehensive documentation and analysis related to ane
 ## Files Included
 
 - **`Master_Chart.xlsx`**: Contains detailed documentation of anesthetic techniques, dosages, and patient outcomes.
+- **`Processed_Chart.xlsx`**: Simplified Master chart to generate graphs used PYTHON(pandas) for this.
 - **`Visualizations.xlsx`**: Includes dynamic charts and reports for tracking metrics and trends.
 - **`Analysis_Reports.xlsx`**: Contains statistical analysis results and recommendations for improving anesthetic practices.
 
