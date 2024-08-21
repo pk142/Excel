@@ -1,18 +1,33 @@
-Overview
-Developed a comprehensive master chart documenting anesthetic techniques, dosages, and patient outcomes for congenital tracheoesophageal fistula (TOF) surgeries.
+# Anesthetic Management of Congenital Tracheoesophageal Fistula (TOF)
 
-Key Contributions
-Master Chart: Created a detailed master chart in Excel documenting anesthetic techniques, dosages, and outcomes for 50 patients, improving data accessibility for over 100 procedures.
+## Overview
 
-Dynamic Visualizations: Developed dynamic visualizations and reports in Excel to track key metrics and trends, supporting data-driven decision-making for clinical teams.
+This repository contains comprehensive documentation and analysis related to anesthetic management for congenital tracheoesophageal fistula (TOF) surgeries. The goal is to enhance data accessibility and provide evidence-based recommendations to improve patient safety and care quality.
 
-Statistical Analysis: Performed in-depth statistical analysis to identify effective anesthetic practices, achieving a 15% reduction in complications.
+## Key Contributions
 
-Evidence-Based Recommendations: Provided evidence-based recommendations to optimize anesthetic protocols for TOF surgeries, enhancing patient safety and care quality.
+- **Master Chart**: Developed a detailed master chart in Excel documenting anesthetic techniques, dosages, and outcomes for 50 patients. This chart improves data accessibility for over 100 procedures.
+  
+- **Dynamic Visualizations**: Created dynamic visualizations and reports in Excel to track key metrics and trends. These visualizations support data-driven decision-making for clinical teams.
 
-Files Included
-Master Chart: Contains detailed documentation of anesthetic techniques and outcomes.
-Visualizations: Dynamic charts and reports for tracking metrics and trends.
-Analysis Reports: Statistical analysis results and recommendations for improving anesthetic practices.
-Usage
-Refer to the visualizations and statistical reports to understand key metrics and trends in anesthetic management. Use the master chart as a reference for anesthetic techniques and dosages based on patient outcomes.
+- **Statistical Analysis**: Conducted in-depth statistical analysis to identify effective anesthetic practices, resulting in a 15% reduction in complications.
+
+- **Evidence-Based Recommendations**: Provided recommendations based on analysis to optimize anesthetic protocols for TOF surgeries, enhancing patient safety and care quality.
+
+## Files Included
+
+- **`Master_Chart.xlsx`**: Contains detailed documentation of anesthetic techniques, dosages, and patient outcomes.
+- **`Visualizations.xlsx`**: Includes dynamic charts and reports for tracking metrics and trends.
+- **`Analysis_Reports.xlsx`**: Contains statistical analysis results and recommendations for improving anesthetic practices.
+
+## Usage
+
+1. **Master Chart**: Use the master chart to review anesthetic techniques and dosages based on patient outcomes.
+2. **Visualizations**: Refer to the visualizations for insights into key metrics and trends.
+3. **Analysis Reports**: Review the analysis reports for statistical insights and evidence-based recommendations.
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/pk142/Excel.git
